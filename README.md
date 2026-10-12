@@ -1,19 +1,35 @@
-<h1 align="center">Hi 👋, I'm MD. Azharul Islam</h1>
-<h3 align="center">A noob coder from Bangladesh</h3>
+# Md Azharul Islam
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azhar1256&label=Profile%20views&color=0e75b6&style=flat" alt="azhar1256" /> </p>
+**Business Analyst · Master of Business Analytics candidate, Macquarie University, Sydney**
 
-- 📫 How to reach me **azhar000845@gmail.com**
+I work out what to build and how sure we can be about it. I have 2+ years as a business analyst on ERP, travel-tech and analytics platforms, a computer science degree, and co-authored research on uncertainty in deep learning.
 
-- ⚡ Fun fact **Tomra keno eto bolod**
+🌐 **Portfolio:** [azhar1256.github.io](https://azhar1256.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/md-azharul-islam-0612931b0) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=7OtsSLcAAAAJ) · 📄 [ResearchGate](https://www.researchgate.net/profile/Md-Islam-1645) · ✉️ azhar000845@gmail.com
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### Now
+- **Master of Business Analytics**, Macquarie University (2025–2027). Distinction average, Vice-Chancellor's International Scholarship (top 1%)
+- Open to **business analyst, data analyst, product and consulting** roles in Sydney
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azhar1256&show_icons=true&locale=en&layout=compact" alt="azhar1256" /></p>
+### Experience
+- **Business Analyst**, Analyzen Bangladesh (2024–25): requirements for the 2.0 release of a microfinance ERP, Power BI reporting on SQL data, and end-to-end delivery of a business directory app
+- **Business Analyst – Executive**, FirstTrip (2023–24): a B2C travel booking platform with 100,000+ downloads, covering requirements, UI/UX and SQL/Excel analysis
 
+### Research
+Four co-authored, peer-reviewed conference papers on **uncertainty in neural networks with Monte Carlo Dropout**, across CNNs, transformers, RNNs and GNNs (ICMV 2022, ICCIT 2022, IEEE SoutheastCon 2023, ACMSE 2023).
 
-<p align="center">
-  <img src="https://github.com/Azhar1256/Azhar1256/blob/main/tumblr_mpohce2pAU1s91wtgo1_500.gif">
-</p>
+### Selected repositories
+| Repository | What it is |
+|---|---|
+| [CSE438](https://github.com/Azhar1256/CSE438) | Skin cancer diagnosis with deep CNNs on HAM10000 (TensorFlow) |
+| [CSE490](https://github.com/Azhar1256/CSE490) | Building segmentation in satellite images with U-Net |
+| [CSE470](https://github.com/Azhar1256/CSE470) | Botfrag, a MERN gaming community app, with API tests |
+| [CSE370](https://github.com/Azhar1256/CSE370) | Django and SQL vaccine management system, with tests |
+| [CSE422](https://github.com/Azhar1256/CSE422) | AI search: DFS/BFS, a genetic algorithm, alpha-beta pruning |
+| [CSE360](https://github.com/Azhar1256/CSE360) | Arduino smart cane for the visually impaired (sonar, GPS, GSM) |
+
+### Tools
+**Analysis:** SQL · Power BI · Excel · Python (pandas, statsmodels, scikit-learn) · Figma
+**Engineering:** Python · Java · C/C++ · JavaScript · MySQL · MongoDB · TensorFlow/Keras · Git
+**Ways of working:** requirements and process mapping · UAT · Agile delivery · stakeholder engagement
